@@ -1,3 +1,7 @@
-"# Discover example" 
+# Discover 
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Video Title")
+## Tutorial - Java 1
+
+[![Java 1](../img/java.jpg)](https://www.youtube.com/watch?v=eIrMbAQSU34 "Java Tutorial")
+
+This is a Java tutorial
